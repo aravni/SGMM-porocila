@@ -1,5 +1,5 @@
 # SGMM-porocila
-Ta repozitorij vsebuje poročili za vaje pri predmetu Sestavljena gonila v mobilni tehniki, Fakulteta za strojništvo Univerze v ljubljani, letnik 2024/25.
+Ta repozitorij vsebuje poročili za vaje pri predmetu Sestavljena gonila v mobilni tehniki, Fakulteta za strojništvo Univerze v Ljubljani, letnik 2024/25.
 
 ## Smotrna raba programske kode
 Koda, spisana v programskem jeziku Python, je namenjena v pomoč pri pisanju poročila. Nikakor ne želim vzpodbujati prepisovanja ali uporabe kode za generiranje slik. Uporabnik je vljudno povabljen tako k nadgradnji, kot tudi iskanju napak v kodi in dodajanju podatkov za nova vozila.
